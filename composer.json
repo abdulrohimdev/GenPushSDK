@@ -9,10 +9,6 @@
             "email": "abdulrohim@dp.dharmap.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {
-
-    },
     "autoload": {
         "psr-4": {"GenPushSDK\\": "src/"}
     }
