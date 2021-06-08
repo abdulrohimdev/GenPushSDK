@@ -1,0 +1,19 @@
+{
+    "name": "genius/phpsocket",
+    "description": "Realtime Socket",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abdul rohim",
+            "email": "abdulrohim@dp.dharmap.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {"GenPushSDK\\": "src/"}
+    }
+}
